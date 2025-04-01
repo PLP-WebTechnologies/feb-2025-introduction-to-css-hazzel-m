@@ -1,0 +1,44 @@
+#main-header {
+    background-color: #a56f0a;
+    color: white; 
+    text-align: center; 
+    padding: 20px; 
+    font-family: 'Arial', sans-serif; 
+}
+
+.container {
+    width: 80%; 
+    margin: 20px auto; 
+    padding: 20px; 
+    border: 2px solid #ccc; 
+    border-radius: 8px; 
+}
+
+.text-content {
+    font-size: 18px; 
+    line-height: 1.6; 
+    margin-bottom: 15px;
+}
+
+img {
+    max-width: 100%;
+    height: auto; 
+    border-radius: 10px; 
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    font-family: 'Georgia', serif; /* Setting a different font for <h2> */
+    color: #333; 
+    font-size: 28px;
+    font-weight: bold; 
+    margin-bottom: 20px; 
+
+.link {
+    color: #0066cc;
+    text-decoration: none; 
+}
+
+.link:hover {
+    text-decoration: underline; 
+}
